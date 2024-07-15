@@ -1,2 +1,2 @@
-# hello-world
-hello word
+  Meu nome é Gustavo Mirabal Czarnotta, tenho 20 anos, atualmente estudo na Universidade Tecnologica Federal do Paraná estou cursando Engenharia de Controle e Automação, antes da UTFPR eu estudei na etec abdias do nascimento fiz o curso de Desenvolvimento de Sistemas, onde aprendir algumas liguagens de programação como python, php, js, HTML, CSS.
+  Desde pequeno aprendi a trabalhar e a liderar uma equipe por conta do escotismo.
